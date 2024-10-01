@@ -18,8 +18,8 @@ This is a secure chat application based on the OLAF/Neighbourhood protocol. It s
 
 1. **Clone the Repository**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/om196/chat-system.git
+    cd chat-system
     ```
 
 2. **Setup Python Environment**
